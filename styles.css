@@ -1,0 +1,10 @@
+/* Add your custom styles here */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+#chatbotWidget {
+    display: none;
+    /* Add styling for the chatbot widget container if needed */
+}
